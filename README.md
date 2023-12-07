@@ -1,4 +1,3 @@
-![](https://moe-counter.glitch.me/get/@codeacg.github.readme?theme=rule34)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laoazhang/laoazhang/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laoazhang/laoazhang/output/github-contribution-grid-snake.svg"> 
