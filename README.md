@@ -1,5 +1,6 @@
 ![](https://moe-counter.glitch.me/get/@codeacg.github.readme?theme=rule34)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=codeacg=green&right_color=red)
+[![喵酱's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=codeacg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laoazhang/laoazhang/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laoazhang/laoazhang/output/github-contribution-grid-snake.svg"> 
