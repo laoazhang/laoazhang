@@ -13,7 +13,7 @@
 
 - HTTP Status Cats - [http.cat](https://http.cat) | [Repo for PR](https://github.com/httpcats/http.cat)
 - [Data Structure 101](https://github.com/girliemac/a-picture-is-worth-a-1000-words)  - Doodles
-- My Blog - [https://blog.csdn.net/bug_s]
+- My Blog - [https://blog.csdn.net/bug_s](https://blog.csdn.net/bug_s)
 
 
 <picture>
