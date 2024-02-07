@@ -12,9 +12,3 @@
 | [Bilibili](https://space.bilibili.com/66068996)
 | [Gitee](https://gitee.com/laoazhang)
 | [LeetCode](https://leetcode.cn/u/laoazhang/)
-
-## 🐱 Projects on GitHub
-
-- HTTP Status Cats - [http.cat](https://http.cat) | [Repo for PR](https://github.com/httpcats/http.cat)
-- My Cat - [https://blog.csdn.net/bug_s](https://blog.csdn.net/bug_s)
-
