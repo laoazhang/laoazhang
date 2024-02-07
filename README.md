@@ -15,11 +15,3 @@
 - [Data Structure 101](https://github.com/girliemac/a-picture-is-worth-a-1000-words)  - Doodles
 - My Blog - [https://blog.csdn.net/bug_s](https://blog.csdn.net/bug_s)
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laoazhang/laoazhang/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laoazhang/laoazhang/output/github-contribution-grid-snake.svg"> 
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/laoazhang/laoazhang/output/github-contribution-grid-snake.svg"> 
-</picture>
-
-
