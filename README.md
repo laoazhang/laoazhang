@@ -12,3 +12,8 @@
 | [Bilibili](https://space.bilibili.com/66068996)
 | [Gitee](https://gitee.com/laoazhang)
 | [LeetCode](https://leetcode.cn/u/laoazhang/)
+
+## My GitHub Stats
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=laoazhang&show_icons=true&locale=en" alt="laoazhang" /> </p>
+
