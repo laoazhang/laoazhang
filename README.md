@@ -9,6 +9,13 @@
 | [Instagram](https://www.instagram.com/laoazhang/)
 | [LinkedIn](https://linkedin.com/in/laoazhang)
 
+## 🐱 Projects on GitHub
+
+- HTTP Status Cats - [http.cat](https://http.cat) | [Repo for PR](https://github.com/httpcats/http.cat)
+- [Raspberry Pi KittyCam](https://github.com/girliemac/RPi-KittyCam)
+- [Data Structure 101](https://github.com/girliemac/a-picture-is-worth-a-1000-words)  - Doodles
+- My Blog - [girliemac.com](https://girliemac.com) | [Repo ](https://github.com/girliemac/girliemac.github.io) (Fix my typo & send me PR)
+
 
 
 <picture>
