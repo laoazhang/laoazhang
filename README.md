@@ -20,7 +20,7 @@
 | [Gitee](https://gitee.com/laoazhang)
 | [LeetCode](https://leetcode.cn/u/laoazhang/)
 
-## ☄️ Projects on GitHub
+## 🎈 Projects on GitHub
 
 - HTTP Status Cats - [http.cat](https://http.cat) | [Repo for PR](https://github.com/httpcats/http.cat)
 - [Data Structure 101](https://github.com/girliemac/a-picture-is-worth-a-1000-words)  - My Favorite Doodles
