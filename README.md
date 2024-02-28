@@ -1,7 +1,8 @@
 # 👋 Welcome to my ~~Homepage~~ GitHub Repo 
 
-![cat](https://girliemac.com/assets/images/articles/2016/08/dx-jamie-comic.jpg
+![cat](https://laoazhang.cn/assets/images/articles/dx-jamie-comic.jpg
 )
+
 
 <div align="center">
    <a href="javascript:;">
@@ -11,8 +12,10 @@
 
 <div align="center"><img  width="100px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></div>
 
-## 🤝 Connect Me on Social Media
 
+## 🤝 Connect Me on Social Media
+![cat](https://laoazhang.cn/assets/images/articles/daydream.jpg
+)
 [Twitter](https://twitter.com/laoazhang) 
 | [Instagram](https://www.instagram.com/laoazhang/)
 | [LinkedIn](https://linkedin.com/in/laoazhang)
