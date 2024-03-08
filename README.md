@@ -2,8 +2,6 @@
 
 # :wave: Hey there! Welcome to my ~~Homepage~~ GitHub Repo 
 
-<!--   my-icons -->
-
 <p align="center">
     <a href="https://github.com/laoazhang/laoazhang"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
@@ -12,8 +10,6 @@
     <a href="https://github.com/laoazhang/laoazhang/network/members"><img src="https://img.shields.io/github/forks/laoazhang/laoazhang.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=laoazhang.laoazhang" alt="visitors"/>   
 </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=laoazhang&label=Views&color=blue&style=plastic&style=for-the-badge" alt="laoazhang" /> </p>
 
 ![cat](https://laoazhang.cn/assets/images/articles/dx-jamie-comic.jpg
 )
