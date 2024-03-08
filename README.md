@@ -1,6 +1,18 @@
 
 
 # :wave: Hey there! Welcome to my ~~Homepage~~ GitHub Repo 
+
+<!--   my-icons -->
+
+<p align="center">
+    <a href="https://github.com/laoazhang/laoazhang"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/laoazhang/laoazhang/graphs/contributors"><img src="https://img.shields.io/github/contributors/laoazhang/laoazhang?color=blue"></a>
+    <a href="https://github.com/laoazhang/laoazhang/stargazers"><img src="https://img.shields.io/github/stars/laoazhang/laoazhang.svg?logo=github"></a>
+    <a href="https://github.com/laoazhang/laoazhang/network/members"><img src="https://img.shields.io/github/forks/laoazhang/laoazhang.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=laoazhang.laoazhang" alt="visitors"/>   
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laoazhang&label=Views&color=blue&style=plastic&style=for-the-badge" alt="laoazhang" /> </p>
 
 ![cat](https://laoazhang.cn/assets/images/articles/dx-jamie-comic.jpg
@@ -14,7 +26,9 @@
 
 <div align="center"><img  width="100px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></div>
 
+
 ## 💫 About Me :
+
 🚀I'm an open web advocate, front-end engineer and back-end engineer who loves programming and Vim. Currently studying python, 🌟I aim to solve real-world problems and build user-friendly software.
 
 💻 Coding is my passion, and Vim is my favorite text editor for its efficiency. 📚I'm eager to create meaningful solutions and contribute to open-source projects.
@@ -29,23 +43,21 @@
 
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/@laoazhang).
 
-- 🤔 I’m looking for help with VelocityX documentation.
+- 🤔 I’m looking for help with IDEAVim documentation.
 
-- 💬 Ask me about Flutter or any tech-related stuff.
+- 💬 Ask me about Java or any tech-related stuff.
 
 - 📫 How to reach me: Check social links below.
 
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
-
-## 🤝 Connect Me on Social Media
+## 🌐 Connect Me on Social Media
 [Twitter](https://twitter.com/laoazhang) 
 | [Instagram](https://www.instagram.com/laoazhang/)
 | [LinkedIn](https://linkedin.com/in/laoazhang)
 | [Bilibili](https://space.bilibili.com/66068996)
 | [Gitee](https://gitee.com/laoazhang)
 | [LeetCode](https://leetcode.cn/u/laoazhang/)
-
 
 ## 🎈 Projects on GitHub
 
@@ -54,9 +66,7 @@
 - My Blog - [laoazhang.cn](https://laoazhang.cn/) | [Repo ](https://github.com/laoazhang/laoazhang.github.io)(Fix my typo & send me PR)
 
 ## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=laoazhang&theme=minimal"/>
-</p>
+![laoazhang's github activity graph](https://raw.githubusercontent.com/laoazhang/laoazhang/output/github-contribution-grid-snake.svg)
 
 
 ## 💳 Github Profile Summary Card
