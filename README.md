@@ -21,22 +21,31 @@
 
 🌟 If you find my work interesting, a star on my repository would brighten someone's day! Let's learn and grow together! 🌏
 
+- 😄 Pronouns: He/His
+
+- 🔭 I’m currently building [Python-Learn](https://github.com/laoazhang/python-learn).
+
+- 🌱 I'm currently learning more about python.
+
+- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/@laoazhang).
+
+- 🤔 I’m looking for help with VelocityX documentation.
+
+- 💬 Ask me about Flutter or any tech-related stuff.
+
+- 📫 How to reach me: Check social links below.
+
+- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+
 
 ## 🤝 Connect Me on Social Media
-- 😄 Pronouns: He/His
-- 🔭 I’m currently building [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/hellocodepur).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 [Twitter](https://twitter.com/laoazhang) 
 | [Instagram](https://www.instagram.com/laoazhang/)
 | [LinkedIn](https://linkedin.com/in/laoazhang)
 | [Bilibili](https://space.bilibili.com/66068996)
 | [Gitee](https://gitee.com/laoazhang)
 | [LeetCode](https://leetcode.cn/u/laoazhang/)
+
 
 ## 🎈 Projects on GitHub
 
@@ -77,3 +86,6 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+---
+<img src="images/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
