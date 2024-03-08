@@ -3,8 +3,8 @@
 # :wave: Hey there! Welcome to my ~~Homepage~~ GitHub Repo 
 
 <p align="center">
-    <a href="https://github.com/laoazhang/laoazhang"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/laoazhang"><img src="https://img.shields.io/badge/status-learning-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-e32c5d.svg"></a>
     <a href="https://github.com/laoazhang/laoazhang/graphs/contributors"><img src="https://img.shields.io/github/contributors/laoazhang/laoazhang?color=blue"></a>
     <a href="https://github.com/laoazhang/laoazhang/stargazers"><img src="https://img.shields.io/github/stars/laoazhang/laoazhang.svg?logo=github"></a>
     <a href="https://github.com/laoazhang/laoazhang/network/members"><img src="https://img.shields.io/github/forks/laoazhang/laoazhang.svg?color=blue&logo=github"></a>
@@ -49,11 +49,18 @@
 
 ## 🌐 Connect Me on Social Media
 [Twitter](https://twitter.com/laoazhang) 
-| [Instagram](https://www.instagram.com/laoazhang/)
+
+| [Facebook](https://www.facebook.com/laoazhang)
+
+| [Instagram](https://www.instagram.com/laoazhang)
 | [LinkedIn](https://linkedin.com/in/laoazhang)
 | [Bilibili](https://space.bilibili.com/66068996)
 | [Gitee](https://gitee.com/laoazhang)
 | [LeetCode](https://leetcode.cn/u/laoazhang/)
+
+| <a href="mailto:laoazhangs@outlook.com" target="blank">Email</a>
+
+
 
 ## 🎈 Projects on GitHub
 
@@ -94,4 +101,4 @@
 </div>
 
 ---
-<img src="images/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+<img src="assets/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
