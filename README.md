@@ -49,18 +49,13 @@
 
 ## 🌐 Connect Me on Social Media
 [Twitter](https://twitter.com/laoazhang) 
-
 | [Facebook](https://www.facebook.com/laoazhang)
-
 | [Instagram](https://www.instagram.com/laoazhang)
 | [LinkedIn](https://linkedin.com/in/laoazhang)
 | [Bilibili](https://space.bilibili.com/66068996)
 | [Gitee](https://gitee.com/laoazhang)
 | [LeetCode](https://leetcode.cn/u/laoazhang/)
-
 | <a href="mailto:laoazhangs@outlook.com" target="blank">Email</a>
-
-
 
 ## 🎈 Projects on GitHub
 
