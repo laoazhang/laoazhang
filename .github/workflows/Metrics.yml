@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: laoazhang
-          config_timezone: Europe/Minsk
+          config_timezone: Asia/China
 #          config_display: columns  # отображать информацию по колонкам
           committer_message: "chore: update metrics"
           template: classic
