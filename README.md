@@ -65,7 +65,7 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=laoazhang&theme=vue" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=laoazhang&theme=vue" />
 </p>
 
 
