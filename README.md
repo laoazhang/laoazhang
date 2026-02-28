@@ -11,8 +11,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=laoazhang.laoazhang" alt="visitors"/>   
 </p>
 
-![cat](https://laoazhang.cn/assets/images/articles/dx-jamie-comic.jpg
-)
+![cat](https://laoazhang.cn/assets/images/articles/dx-jamie-comic.jpg)
 
 <div align="center">
    <a href="javascript:;">
